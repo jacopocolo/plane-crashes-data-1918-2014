@@ -1,0 +1,294 @@
+{ "1918" : { "crashes" : 12,
+      "fatalities" : 4
+    },
+  "1919" : { "crashes" : 62,
+      "fatalities" : 33
+    },
+  "1920" : { "crashes" : 96,
+      "fatalities" : 50
+    },
+  "1921" : { "crashes" : 98,
+      "fatalities" : 42
+    },
+  "1922" : { "crashes" : 80,
+      "fatalities" : 69
+    },
+  "1923" : { "crashes" : 51,
+      "fatalities" : 51
+    },
+  "1924" : { "crashes" : 36,
+      "fatalities" : 26
+    },
+  "1925" : { "crashes" : 56,
+      "fatalities" : 32
+    },
+  "1926" : { "crashes" : 84,
+      "fatalities" : 70
+    },
+  "1927" : { "crashes" : 110,
+      "fatalities" : 107
+    },
+  "1928" : { "crashes" : 188,
+      "fatalities" : 173
+    },
+  "1929" : { "crashes" : 239,
+      "fatalities" : 249
+    },
+  "1930" : { "crashes" : 182,
+      "fatalities" : 185
+    },
+  "1931" : { "crashes" : 163,
+      "fatalities" : 166
+    },
+  "1932" : { "crashes" : 142,
+      "fatalities" : 120
+    },
+  "1933" : { "crashes" : 151,
+      "fatalities" : 199
+    },
+  "1934" : { "crashes" : 136,
+      "fatalities" : 198
+    },
+  "1935" : { "crashes" : 180,
+      "fatalities" : 313
+    },
+  "1936" : { "crashes" : 213,
+      "fatalities" : 396
+    },
+  "1937" : { "crashes" : 158,
+      "fatalities" : 324
+    },
+  "1938" : { "crashes" : 203,
+      "fatalities" : 620
+    },
+  "1939" : { "crashes" : 239,
+      "fatalities" : 482
+    },
+  "1940" : { "crashes" : 451,
+      "fatalities" : 1101
+    },
+  "1941" : { "crashes" : 245,
+      "fatalities" : 749
+    },
+  "1942" : { "crashes" : 524,
+      "fatalities" : 1735
+    },
+  "1943" : { "crashes" : 565,
+      "fatalities" : 2301
+    },
+  "1944" : { "crashes" : 717,
+      "fatalities" : 3187
+    },
+  "1945" : { "crashes" : 369,
+      "fatalities" : 2358
+    },
+  "1946" : { "crashes" : 344,
+      "fatalities" : 1863
+    },
+  "1947" : { "crashes" : 298,
+      "fatalities" : 1662
+    },
+  "1948" : { "crashes" : 284,
+      "fatalities" : 1672
+    },
+  "1949" : { "crashes" : 240,
+      "fatalities" : 1499
+    },
+  "1950" : { "crashes" : 259,
+      "fatalities" : 1870
+    },
+  "1951" : { "crashes" : 260,
+      "fatalities" : 1624
+    },
+  "1952" : { "crashes" : 250,
+      "fatalities" : 1725
+    },
+  "1953" : { "crashes" : 206,
+      "fatalities" : 1606
+    },
+  "1954" : { "crashes" : 201,
+      "fatalities" : 1334
+    },
+  "1955" : { "crashes" : 180,
+      "fatalities" : 1222
+    },
+  "1956" : { "crashes" : 170,
+      "fatalities" : 1271
+    },
+  "1957" : { "crashes" : 210,
+      "fatalities" : 1405
+    },
+  "1958" : { "crashes" : 214,
+      "fatalities" : 1670
+    },
+  "1959" : { "crashes" : 195,
+      "fatalities" : 1411
+    },
+  "1960" : { "crashes" : 186,
+      "fatalities" : 1891
+    },
+  "1961" : { "crashes" : 210,
+      "fatalities" : 1693
+    },
+  "1962" : { "crashes" : 199,
+      "fatalities" : 2300
+    },
+  "1963" : { "crashes" : 159,
+      "fatalities" : 1698
+    },
+  "1964" : { "crashes" : 218,
+      "fatalities" : 1608
+    },
+  "1965" : { "crashes" : 257,
+      "fatalities" : 2187
+    },
+  "1966" : { "crashes" : 248,
+      "fatalities" : 2136
+    },
+  "1967" : { "crashes" : 308,
+      "fatalities" : 2227
+    },
+  "1968" : { "crashes" : 299,
+      "fatalities" : 2308
+    },
+  "1969" : { "crashes" : 316,
+      "fatalities" : 2484
+    },
+  "1970" : { "crashes" : 288,
+      "fatalities" : 2250
+    },
+  "1971" : { "crashes" : 259,
+      "fatalities" : 2216
+    },
+  "1972" : { "crashes" : 332,
+      "fatalities" : 3311
+    },
+  "1973" : { "crashes" : 313,
+      "fatalities" : 2815
+    },
+  "1974" : { "crashes" : 263,
+      "fatalities" : 2621
+    },
+  "1975" : { "crashes" : 309,
+      "fatalities" : 1861
+    },
+  "1976" : { "crashes" : 267,
+      "fatalities" : 2415
+    },
+  "1977" : { "crashes" : 327,
+      "fatalities" : 2448
+    },
+  "1978" : { "crashes" : 347,
+      "fatalities" : 2042
+    },
+  "1979" : { "crashes" : 327,
+      "fatalities" : 2515
+    },
+  "1980" : { "crashes" : 325,
+      "fatalities" : 2203
+    },
+  "1981" : { "crashes" : 272,
+      "fatalities" : 1506
+    },
+  "1982" : { "crashes" : 247,
+      "fatalities" : 1957
+    },
+  "1983" : { "crashes" : 239,
+      "fatalities" : 1921
+    },
+  "1984" : { "crashes" : 233,
+      "fatalities" : 1281
+    },
+  "1985" : { "crashes" : 216,
+      "fatalities" : 2969
+    },
+  "1986" : { "crashes" : 238,
+      "fatalities" : 1764
+    },
+  "1987" : { "crashes" : 275,
+      "fatalities" : 2058
+    },
+  "1988" : { "crashes" : 251,
+      "fatalities" : 2299
+    },
+  "1989" : { "crashes" : 263,
+      "fatalities" : 2504
+    },
+  "1990" : { "crashes" : 261,
+      "fatalities" : 1631
+    },
+  "1991" : { "crashes" : 239,
+      "fatalities" : 1964
+    },
+  "1992" : { "crashes" : 256,
+      "fatalities" : 2291
+    },
+  "1993" : { "crashes" : 275,
+      "fatalities" : 1760
+    },
+  "1994" : { "crashes" : 231,
+      "fatalities" : 2018
+    },
+  "1995" : { "crashes" : 266,
+      "fatalities" : 1829
+    },
+  "1996" : { "crashes" : 249,
+      "fatalities" : 2778
+    },
+  "1997" : { "crashes" : 232,
+      "fatalities" : 1769
+    },
+  "1998" : { "crashes" : 225,
+      "fatalities" : 1721
+    },
+  "1999" : { "crashes" : 221,
+      "fatalities" : 1150
+    },
+  "2000" : { "crashes" : 196,
+      "fatalities" : 1586
+    },
+  "2001" : { "crashes" : 210,
+      "fatalities" : 1539
+    },
+  "2002" : { "crashes" : 197,
+      "fatalities" : 1418
+    },
+  "2003" : { "crashes" : 201,
+      "fatalities" : 1233
+    },
+  "2004" : { "crashes" : 178,
+      "fatalities" : 767
+    },
+  "2005" : { "crashes" : 194,
+      "fatalities" : 1463
+    },
+  "2006" : { "crashes" : 192,
+      "fatalities" : 1299
+    },
+  "2007" : { "crashes" : 168,
+      "fatalities" : 981
+    },
+  "2008" : { "crashes" : 188,
+      "fatalities" : 886
+    },
+  "2009" : { "crashes" : 160,
+      "fatalities" : 1108
+    },
+  "2010" : { "crashes" : 162,
+      "fatalities" : 1130
+    },
+  "2011" : { "crashes" : 154,
+      "fatalities" : 828
+    },
+  "2012" : { "crashes" : 155,
+      "fatalities" : 800
+    },
+  "2013" : { "crashes" : 137,
+      "fatalities" : 453
+    },
+  "2014" : { "crashes" : 111,
+      "fatalities" : 1320
+    }
+}
+
+//Data from www.baaa-acro.com
